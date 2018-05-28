@@ -104,8 +104,8 @@ Hosts
 : Holly Poer and Jos Weyers
 
 Times
-: 10:30 to 12:30 <small>(till lunch)</small> both days
-: 13:15 to 17:15 <small>(till the end of the day)</small> both days
+: Saturday 13:15 to 15:15
+: Sunday all day
 
 Room
 : `B216`
