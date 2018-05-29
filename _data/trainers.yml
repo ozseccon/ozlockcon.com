@@ -31,5 +31,14 @@ wayne-ronaldson:
       while also demonstrating the challenge of being able to have the mindset like a Red Team member.
 
       [Course outline can be found in this PDF.](/documents/training/adversary-mindset.pdf)
-          
+
+  hackergotchi: /images/hackergotchis/mystery.png
+
+tom:
+  name: Tom
+  whois: >
+    Tom is an experienced security consultant, having performed the full spectrum of offensive cyber security services for private sector, federal and state government clients. Tom has performed and led multiple successful Red Team engagements including development of both custom and open source tooling, covert infrastructure and command & control channels and development of custom exploits and bypass techniques to achieve Red Team objectives.
+
+
+    If he's not breaking into your office he's probably climbing rocks, drinking coffee or attempting to covertly incorporate Deus Ex quotes into TSS' professional copy.
   hackergotchi: /images/hackergotchis/mystery.png
