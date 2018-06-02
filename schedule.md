@@ -32,7 +32,7 @@ Collections from Mick and Topy will be on display both days. Come by and ask que
 | 13:45–14:15  | ['**Tamper resistance bypasses**', by Connor and Emily Morrison](/speakers/#connor-emily-morrison)																																								|
 | 14:15–15:15  | ['**How to disappear completely**', by Attacus](/speakers/#attacus) 																																																							|
 | 15:15–16:15  | ['**High Security Lockpicking**', by Andre Vornbrock](/speakers/#andre-vornbrock) 																											|
-| 16:15–17:15  | ['**Back in time: Finnish lock industry**', by Dina Jalkanen](/speakers/#dina-jalkanen) 																																													|
+| 16:15–17:15  | ['**Back in time: Finnish lock industry**', by Thomas Covenant](/speakers/#thomas-covenant) 																																													|
 | 17:30–18:00  | <span class="smallcaps">Saturday night party</span> <small>--- buses provided to venue (_Kooinda Brewery_)</small>																																|
 
 
