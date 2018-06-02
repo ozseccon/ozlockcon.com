@@ -9,8 +9,8 @@ Talks and workshops run on both days.
 
 Talks are in a single track, and are presented the David Willis Auditorium.
 
-- [Saturday’s talks](saturdays-talks)
-- [Sunday’s talks](sundays-talks)
+- [Saturday’s talks](#saturdays-talks)
+- [Sunday’s talks](#sundays-talks)
 - [Workshop listing and schedule](#workshops)
 - [Women’s social meetup](#womens-social-meetup)
 
@@ -139,10 +139,8 @@ Host
 : Ed Farrell
 
 Times
-: Saturday 13:30 to 12:30
-: Saturday 16:15 to 17:15
-: Sunday 11:15 to 13:00
-: Sunday 16:30 to 17:30
+: Saturday 13:30 to 16:30
+: Sunday 09:30 to 11:30
 
 ***
 
