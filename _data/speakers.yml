@@ -2,12 +2,13 @@ andre-vornbrock:
   name: Andre Vornbrock
   whois: Discovered MCS vulnerabilities --- background in high security NDE.
   title: High Security Lockpicking
+  youtube: https://youtu.be/1UDSqioshDo
   abstract: >
       Practical applications for how to pick nearly any high security lock with a sidebar.
 
 
       The main focus of the talk will center around the legendary MCS lock and it's newly published vulnerabilities.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 peter-field:
   name: Peter Field
@@ -27,7 +28,7 @@ peter-field:
 
 
       We will use illustrations and photographs to see what the lock and keys look like, how they operate and estimatewhat security they provide.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 lucas-peter:
   name: Peter Field & Lucas Zhao
@@ -40,10 +41,11 @@ lucas-peter:
 
 
       <small>→ Twitter:</small> [**@TheUrbanHawk**](https://twitter.com/TheUrbanHawk)
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 connor-emily:
   name: Connor & Emily Morrison
+  youtube: https://youtu.be/XDmhAT0huKw
   twitter: MrOldSkinny
   whois: This brother and sister duo are all about learning new 'life skills'. Having discovered lock picking and tamper evident at a really early age, they have made it their mission in life to bypass all the controls. When they finally make it to high school, if the pool on the roof has a leak, that door wont stop them getting back down.
   title: Tamper resistance bypasses
@@ -55,7 +57,7 @@ connor-emily:
 
 
       The presentation will demonstrate the use of a number of solvents and their application to tamper resistance by-passes and as well basic hand-cuff and cable tie removal. A must-see presentation for those wanting to get into tamper-proof by-passing.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 jaakko-fagerlund:
   name: Jaakko Fagerlund
@@ -64,11 +66,14 @@ jaakko-fagerlund:
   title: Manipulation aids in opening safe locks
   abstract: >
       An analysis of weaknesses present in typical mechanical safe combination locks and how to exploit them to gain knowledge of the combination by using electronic measuring tools and PC software.
-  hackergotchi: /images/hackergotchis/mystery.png
+
+      Heat treating tools: [Part One](https://youtu.be/-BvO7zSlsHc) [Part Two](https://youtu.be/iZ15O5YUslA) [Part Three](https://youtu.be/nysAInczxS8)
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 matt-smith:
   name: Matt Smith
   twitter: Matt_Smith_Hux
+  youtube: https://youtu.be/OZKT1iijC6M
   whois: Security subversionist, inveigler, finagler, blaggard, 7th gen locksmith, toolmaker, goalkeeper. Physical 0-days. Abloy NDE training. BSc (hons) Comp Sc. Fin.
   title: Adventures in Discworld
   abstract: >
@@ -76,21 +81,23 @@ matt-smith:
 
 
       This talk will draw on my limited but useful experience as a lockpicker and toolmaker, specialising in disc detainer locks.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 jek-hyde:
   name: Jek Hyde
   twitter: HydeNS33k
+  youtube: https://youtu.be/49zsG1mrTAM
   whois: >
     Jek is an analyst specializing in physical infiltration and social engineering for the Walmart Red Team. She enjoys spreading the InfoSec gospel by sharing stories of how access controls can be bypassed by exploiting the weakest link in the security chain\: You. When Jek isn't burgling, she lifts heavy things, eats sweet potatoes, and jumps in mud puddles with her kids.
   title: Keynote
   abstract: >
       TBA
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 attacus:
   name: Attacus
   twitter: attacus_au
+  youtube: https://youtu.be/1PXMLJ94Sdc
   whois: Attacus was born 1757 during a full moon.  She is currently an internet gremlin at Assurance and in her spare time enjoys licking poisonous wallpaper and patting dogs.
   title: How to disappear completely
   abstract: >
@@ -104,7 +111,7 @@ attacus:
 
 
       This talk provides an overview of the latest urban camouflage technology and how to deploy it in order to foil facial recognition. During this session you'll learn the ways machines "see" us, and how to play with them in order to become invisible. We'll dive into the ethics of biometric identification. And, if you're feeling adventurous, you can have fun with reflective tape and face paint to disguise yourselves from the algorithmic eye.
-  hackergotchi: /images/hackergotchis/attacus.jpg
+  hackergotchi: /2018/images/hackergotchis/attacus.jpg
 
 adam-foster:
   name: Adam Jon Foster
@@ -118,10 +125,11 @@ adam-foster:
     in high security areas, but not much beyond marketing and 1 bosnianbill video talk about
     how it functions and how it can be attacked. In this talk I will cover most of the design and
     function of the Galaxy Lock, how it works, and how you can attack this lock.
-  hackergotchi: /images/hackergotchis/evildaemond.jpg
+  hackergotchi: /2018/images/hackergotchis/evildaemond.jpg
 
 chris-prevost:
   name: Chris Prevost
+  youtube: https://youtu.be/p2j3VIg0G60
   twitter: anarchy_won
   whois: Chris Prevost has nearly twenty years experience in the security industry. He picked his first lock out of curiosity, but his curiosity wasn’t satisfied with just being able to pick locks he wanted to see how they worked, he wanted to see inside the locks. After taking a machining course he did just that. From this endeavor Anarchy Won Metalworks was born. Currently focused on lock cutaways Chris hopes to branch out into custom metal work soon.
   title: >
@@ -131,10 +139,11 @@ chris-prevost:
 
 
     This presentation is an in-depth look at how cutaway locks are made primarily using manual Milling machines. You don’t have to be a machinist to enjoy this talk. Afterwards join the speaker in a live demo where you can watch locks being turned into cutaways.
-  hackergotchi: /images/hackergotchis/anarchy_won.jpg
+  hackergotchi: /2018/images/hackergotchis/anarchy_won.jpg
 
 daniel-matt:
   name: Daniel Underhay & Matthew Daley
+  youtube: https://youtu.be/PKXlqKDk_BU
   twitter: dunderhay
   whois: >
     Dan: Pentester by day, walrus developer on the weekend. Enjoying life.
@@ -150,7 +159,7 @@ daniel-matt:
 
 
     Our presentation demonstrates how Walrus is capable of tapping into the power of the 'Tastic RFID Thief' long range card reader, enabling walk-by cloning of access cards in seconds, as well as how cloned cards can be integrated across multiple devices.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 dina-jalkanen:
   name: Dina Jalkanen
@@ -161,10 +170,11 @@ dina-jalkanen:
     Back in time: Finnish lock industry
   abstract: >
     This talk goes back to the roots of physical security, Nordic lock industry and Abloy in particular. We will also take a look at Finnish medieval locks and some interesting yet irrational beliefs that pushed their development forward.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 jos-weyers:
   name: Jos Weyers
+  youtube: https://youtu.be/WTDwnqxXz_0
   twitter: josweyers
   whois: >
     Jos Weyers is a world-record holder in the field of lock impressioning and a mainstay participant at LockSport events around the world. A long-time member of TOOOL in the Netherlands and a key figure at the Hack42 hackerspace in Arnhem, Jos recently became the Vice-President of TOOOL.nl and now helps to oversee that organization and the LockCon conference. Jos is the mastermind behind the beehive42.org initiative. Some people know him as the Dutch Kilt guy. Featured in the New York Times. Voted #2 in the category "Hackers and Security" of the Nerd101-list of VrijNederland June 2015.
@@ -184,10 +194,11 @@ jos-weyers:
 
 
     So if a reporter wants to get the point across that certain people shouldn't have access to a particular key, would it be wise for said reporter to show that key to the world? This talk will show how not to run this story, why we should care and maybe make you rethink your physical security a bit
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 logan-dave:
   name: Logan Woods & David Tredger
+  youtube: https://youtu.be/beZ7Zu7-90o
   whois: >
     David is a Senior Security Consultant at Aura Information Security. He's been accessing things he shouldn't since he was a schoolboy, which was approximately a week ago (actually more like 5 years…) David has a broad infosec skillset with a special focus on password cracking and OSINT.
     Logan is a Security Consultant at Aura Information Security. Coming from a g-man ops background, he's been pretending to pentest for about 18 months now. He has a particular interest in physical security and lockpicking.
@@ -195,10 +206,11 @@ logan-dave:
     Drinking Tea and Holding Meetings: How to do a bad job of PhySec Redteaming and still pwn your target
   abstract: >
     Imagine doing a Physical Security Assessment where the client tells you all the cool stuff like wearing fake uniforms, card cloning, and lockpicking are out of scope. You have to try and gain access to the organisation's buildings with essentially nothing but your (limited) wit and charm. But they didn't say the kitchen is out of scope. Big mistake. We'll share a story of how a cup of tea is like an invisibility cloak, your target's meeting rooms make an impenetrable base of operations, and how people are inherently so helpful they will literally go out of their way to help you break into their organisation.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 oliver-clayton:
   name: Oliver Clayton
+  youtube: https://youtu.be/0G-W0j2Wlho
   twitter: oliversees
   whois: >
     Oliver is a Security Analyst from Canberra with a love for all things security. High security locks and key duplication are of particular interest.
@@ -206,11 +218,12 @@ oliver-clayton:
     Low Tech Answers To High Security Solutions
   abstract: >
     This talk aims to pick apart the Lockwood V7 including details on picking, key duplication, and impressioning.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /2018/images/hackergotchis/mystery.png
 
 
 alex-hogue:
   name: Alex Hogue
+  youtube: https://youtu.be/MPLVu6018tg
   twitter: mangopdf
   whois: >
     Alex is a small boy trying to be a hacker. It's difficult because sometimes your arms get all stuck when you're trying to put on a hoodie y'know?
@@ -232,7 +245,7 @@ alex-hogue:
 
 
       If the stars align there will also be a _special event_ for some lucky audience members.
-  hackergotchi: /images/hackergotchis/alex-hogue.jpg
+  hackergotchi: /2018/images/hackergotchis/alex-hogue.jpg
 
 
 nullwolf:
@@ -242,4 +255,4 @@ nullwolf:
   title: Challenge locks
   abstract: >
     Are you a bored (and masochistic or sadistic) locksport enthusiast? Maybe you have your eyes set on achieving your "Lock-picking Blue Belt" but aren't sure how to go about it. This talk will offer some tips for creating challenge locks with some DIY security pins and pin chamber modifications.
-  hackergotchi: /images/hackergotchis/nullwolf.jpg
+  hackergotchi: /2018/images/hackergotchis/nullwolf.jpg

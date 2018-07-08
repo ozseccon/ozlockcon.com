@@ -2,45 +2,11 @@
   <div class="container">
     <ul class="nav--primary">
       {% unless page.url == '/' %}
-      <li><a href="/">Home</a></li>
+      <li class="cta" ><a href="/">Home</a></li>
       {% endunless %}
-      <li class="cta">
-        <a href="http://ozseccon.eventzilla.net/web/event?eventid=2138915646">
-          Tickets
-        </a>
-      </li>
-      <li class="cta">
-        <a href="/schedule/"{% if page.url == '/schedule/' %} class="is-current"{% endif %}>
-          Schedule
-        </a>
-      <li class="cta">
-        <a href="/sponsors/"{% if page.url == '/sponsors/' %} class="is-current"{% endif %}>
-          Sponsors
-        </a>
-      </li>
-      <li class="cta">
-        <a href="/speakers/"{% if page.url == '/speakers/' %} class="is-current"{% endif %}>
-          Speakers
-        </a>
-      </li>
-      <li class="cta">
-        <a href="/workshops/"{% if page.url == '/workshops/' %} class="is-current"{% endif %}>
-          Workshops
-        </a>
-      </li>
-      <li class="cta">
-        <a href="/training/"{% if page.url == '/training/' %} class="is-current"{% endif %}>
-          Training
-        </a>
-      </li>
-      <li>
-        <a href="/merch/"{% if page.url == '/merch/' %} class="is-current"{% endif %}>
-          Merchandise
-        </a>
-      </li>
       <li>
         <a href="/faq/"{% if page.url == '/faq/' %} class="is-current"{% endif %}>
-          <abbr>FAQ</abbr>
+          FAQ
         </a>
       </li>
     </ul>

@@ -64,6 +64,7 @@ If you wish to apply for this, we ask that you submit your information to the [f
 The previous years conference websites can be found here:
 
 * [2017 Conference](/2017/)
+* [2018 Conference](/2018/)
 
 ## Does OzSecCon have a Code of Conduct?
 
