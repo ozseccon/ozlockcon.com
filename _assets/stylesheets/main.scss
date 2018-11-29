@@ -289,6 +289,7 @@ $base-timing: ease;
 
 ////////////////////////////////////////////////////////////////////////////////
 // #  Custom partial imports
+// #  Commented out Partial Imports that aint used
 //
 @import 'grid';
 @import 'body';
@@ -298,9 +299,9 @@ $base-timing: ease;
 @import 'header';
 @import 'navigation';
 @import 'main-typography';
-@import 'speakers';
-@import 'sponsors-stuff';
+// @import 'speakers';
+@import 'sponsors';
 @import 'footer';
-@import 'schedule';
-@import 'merch';
+// @import 'schedule';
+// @import 'merch';
 @import 'error';

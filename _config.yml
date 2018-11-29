@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 email: admin@ozseccon.com
 title: OzSecCon
-con_year: '2018'
-con_date: 'June 2-3'
+con_year: '2019'
+con_date: '14, 15 and 16 of June'
 con_location: Melbourne, Australia
 panel:
   title: > # this means to ignore newlines until "abstract:"
