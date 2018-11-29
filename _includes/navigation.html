@@ -5,8 +5,13 @@
       <li class="cta" ><a href="/">Home</a></li>
       {% endunless %}
       <li>
+        <a href="/sponsors/"{% if page.url == '/sponsors/' %} class="is-current"{% endif %}>
+            Sponsorship
+        </a>
+      </li>
+      <li>
         <a href="/faq/"{% if page.url == '/faq/' %} class="is-current"{% endif %}>
-          FAQ
+            FAQ
         </a>
       </li>
     </ul>
