@@ -6,6 +6,7 @@ title: "FAQ"
 ---
 
 1. [Who are you?](#who-are-you)
+1. [Who should attend?](#who-should-attend)
 1. [Is this legal?](#is-this-legal)
 1. [Is possession of lockpicking tools legal?](#is-possession-of-lockpicking-tools-legal)
 1. [How do I travel by air with locksport equipment?](#how-do-i-travel-by-air-with-locksport-equipment)
@@ -15,11 +16,28 @@ title: "FAQ"
 
 ## Who are you?
 
-We are a loose-knit group of physical security enthusiasts. We come from a diverse range of backgrounds; some of us work in security (eg. as locksmiths or in IT security), but we're all locksport hobbyists --- what binds us all is our common interest and passion for locks.
+OzSecCon is a security conference unlike any other. We demonstrate and showcase research, tools and techniques from industry leading presenters around the world with the primary focus being physical security and access control. As this industry progresses, an overlap between traditional access control methods such as locks and keys are now becoming more digitally integrated. OzSecCon aims to bridge the divide between these two industries and educate and inspire everyone interested in the security industry. This event strives to bring together the best minds in the physical and digital security industries whilst still catering to those who are relatively new.
 
-In early 2016 we started a chat channel as a place for us to share knowledge about physical security. For the most part we grew from 'hacker-conferences' and as such we've embraced the hacker spirit of sharing information: teaching each other and learning together.
+OzSecCon was born from a loose-knit group of physical security enthusiasts. We come from a diverse range of backgrounds; some of us work in security (eg. as locksmiths or in IT security), and many of us are locksport hobbyists — but what binds us all is our common interest and passion for all things security.
+In early 2016 we started a chat channel as a place for us to share knowledge about physical security. For the most part we grew from 'hacker-conferences' and as such we have embraced the hacker spirit of sharing information: teaching each other and learning together.
 
-We aim to be like the conferences that occur in Europe and the US. We hope one day that the Australian locksport and physical security community can be regarded as highly as our fellow communities overseas.
+We hope that one day the Australian physical security community can be regarded as highly as the overseas communities are.
+
+## Who should attend?
+
+* Physical Security Professionals
+(Security System Integrators, Locksmiths, Law Enforcement, Forensic specialists, Risk/Policy managers)
+
+* Digital Security Professionals
+(Information Security Specialists, Programmers, Penetration Testers, Security Architects, Risk managers, Security Analysts etc )
+
+* Anyone involved in designing or implementing physical security solutions for clients or businesses
+
+* Security Companies
+(Hardware and Software integrators and developers).
+
+
+If your company is involved with integrating or developing security hardware or software, attending OzSecCon will showcase what types of common mistakes are made and how you and your company can avoid making the same mistakes. OzSecCon is also happy to have vendors demonstrate the latest technologies at the conference, [please get in touch with us via email.](mailto:{{ site.email }})
 
 ## Is this legal?
 
