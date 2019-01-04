@@ -41,7 +41,13 @@ And as in previous years, we need as much support from sponsors as we can manage
 
 ## Venue
 
-The following map shows where the venue is.
+The Melbourne Polytechnic venue is located in West Heidelberg. This venue is also used to teach professional locksmiths and we have graciously been granted access to use the locksmithing and metalworking departments for our demonstrations and workshops. Please do not confuse the venue with the other campuses operated by Melbourne Polytechnic!
+
+This, in conjunction with multiple classrooms and lecture theaters means we will be able to run multiple different activities simultaneously throughout the weekend.
+
+The locksmithing and metalworking departments are located in building B, in the north-west of the campus.
+
+For more on the campus venue, see the [Melbourne Polytechnic Heidelberg campus page](https://www.melbournepolytechnic.edu.au/campuses/heidelberg).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1577.3547714693416!2d145.04346697620423!3d-37.74995787411971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDQ0JzU5LjkiUyAxNDXCsDAyJzQwLjQiRQ!5e0!3m2!1sen!2sau!4v1546592279329" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
