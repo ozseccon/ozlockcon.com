@@ -7,26 +7,60 @@ title: "OzSecCon"
 
 ## Announcement
 
-We are pleased to announce we are back for a third (( 3 )) year running. We have decided to extend the con by one (( 1 )) whole day.  This means it is now three (( 3 )) whole days of madness.
+We are pleased to announce we are back for a third year running!
 
-Venue information will be out shortly.
+The call for papers and workshops is up. The call for papers and the call for workshops can be [found at this link](/cfpw/).
 
-## What's this?
 
-OzSecCon is the first open community event on physical security in Australia.
+Read on for more information!
 
-The conference focus is on both analogue and digital physical security systems and is open to professionals and hobbyists alike.
+We are super excited to be back at the same venue as last year, the Heidelberg campus of Melbourne Polytechnic. This amazing venue allows us access to all of their physical security training tools and displays and gives us access to a huge space to work with.
 
-The 3-day event will provide a community space to share expertise on tools and techniques to learn new skills and refine existing ones.
+We have also decided to extend the con by one whole day, kind-of.
 
-Included are:
+The conference will be running on the 14th, 15th and 16th of June 2019 in Melbourne, Australia. For the first time, this means that we will be running the conference over three days.
 
-- talks
-- workshops
-- and a variety of competitions (with prizes!)
+The additional day will be to allow for physical security training courses to take place focusing on beginner and intermediate skill levels.
 
-Our sessions will be open to all attendees, run by industry-leading instructors across a range of topics.
+All equipment used in the workshops will also be available during the weekend (15-16th) to practice on, however, no formal instructor will be stationed and some items may be used during the various competitions happening throughout the weekend.
+That being said, we are a friendly and helpful community so anyone can always ask questions and someone will always be willing to help if they are able.
 
-Our aim is to cover not only traditional physical security controls (such as locks and safes) but also access control systems (alarm systems and <abbr title="Radio-frequency Identification">RFID</abbr>). This will include both networked and <abbr title="radio frequency">RF</abbr> devices.
+Currently, the plan is as follows:
 
-We hope that all those attending find the experience both informative, engaging, and importantly, fun.
+* 14th June - Workshops
+* 15th June - Talks + Competitions + Demonstrations
+* 16th June - Talks + Competitions + Demonstrations
+
+In addition to these mini workshops, we are also running multi-day professional training courses.
+These courses will be announced once the ticket sales are up in the very near future! If you are interested in running relevant professional training [please email us](mailto:{{ site.email }}), we would love to hear from you!
+
+
+And as in previous years, we need as much support from sponsors as we can manage. We've managed to get pretty close to breaking even the past two years and we're hoping to make it happen this year. If you or your company might be interested in sponsoring OzSecCon for 2019, please let us know as soon as possible and [drop us an email](mailto:sponsors@ozseccon.com).
+
+
+
+## Venue
+
+The following map shows where the venue is.
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/search?key=AIzaSyCXIGwwDlvjDUeDZP32EM2xunXoRAn3I3w&q=Melbourne+Polytechnic+(Heidelberg+Campus),+Bell Street,+Heidelberg+West,+Victoria,+Australia"> </iframe>
+
+
+## What we are about
+
+### Talks
+The primary focus of the conference is to share experiences and knowledge of our expert presenters through detailed presentations covering the latest developments in physical security. We look at vulnerabilities and design choices across a wide spectrum of deployed solutions and cover technical topics like physical tool design as well as hardware and software reverse engineering. Previous talks focused on digital technologies have covered RFID attacks, red teaming, radio protocol reverse engineering while talks focusing on traditional physical security technologies such as safe entry, lock picking and high security lock vulnerabilities have been presented in the past.
+
+
+### Professional Training
+OzSecCon offers attendees the ability to participate in in-depth and deeply technical courses covering a variety of topics. These practical courses are taught by industry and subject matter experts from all over the world with the aim being to encourage participants to look at physical security technologies in the same detail that digital networks are looked at.
+
+
+### Workshops
+In addition to the professional training and talks, OzSecCon has also scheduled several smaller workshops focusing on learning specific skills such as lock picking and impressioning. These are run prior to the conference allowing attendees to learn in a hands on manner without having to miss the talks. Designed to be approachable for both beginners and experts in the subjects, it allows participants to brush up on their skills prior to competing in any of the subsequent competitions held over the weekend.
+
+
+
+### Competitions
+Every year two competitions are run over the weekend, Lockpicking and Impressioning. A number of smaller competitions run by other groups also usually happen throughout the weekend but these are not directly organised by OzSecCon. Winners of Lockpicking will receive a flight, accommodation and entry to the Netherlands LockCon (up to the value of $2000 AUD) to represent the OzSecCon community and give them a chance to participate in the international open while they are there. Impressioning winners will also receive a prize to be determined at a later date.
+Rules for the competitions will be posted online in future.
