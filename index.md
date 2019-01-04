@@ -43,8 +43,7 @@ And as in previous years, we need as much support from sponsors as we can manage
 
 The following map shows where the venue is.
 
-<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/search?key=AIzaSyCXIGwwDlvjDUeDZP32EM2xunXoRAn3I3w&q=Melbourne+Polytechnic+(Heidelberg+Campus),+Bell Street,+Heidelberg+West,+Victoria,+Australia"> </iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1577.3547714693416!2d145.04346697620423!3d-37.74995787411971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDQ0JzU5LjkiUyAxNDXCsDAyJzQwLjQiRQ!5e0!3m2!1sen!2sau!4v1546592279329" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## What we are about
 
