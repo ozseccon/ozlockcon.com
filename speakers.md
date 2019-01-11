@@ -1,6 +1,6 @@
 ---
 layout: 2017speakers
-permalink: /2017/speakers/
+permalink: /speakers/
 slug: speakers
 title: "Speakers"
 ---

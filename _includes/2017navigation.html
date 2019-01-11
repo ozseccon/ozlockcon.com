@@ -1,22 +1,18 @@
 <nav class="container-fluid header--navigation" aria-label="main navigation">
   <div class="container">
     <ul class="nav--primary">
-      {% unless page.url == '/' %}
-      <li><a href="/">Home</a></li>
-      {% endunless %}
-
       <li>
-        <a href="/2017/"{% if page.url == '/2017/' %} class="is-current"{% endif %}>
-          2017 Home
+        <a href="/"{% if page.url == '/' %} class="is-current"{% endif %}>
+          Home
         </a>
       </li>
       <li>
-        <a href="/2017/speakers/"{% if page.url == '/2017/speakers/' %} class="is-current"{% endif %}>
+        <a href="/speakers/"{% if page.url == '/speakers/' %} class="is-current"{% endif %}>
           Speakers
         </a>
       </li>
       <li>
-        <a href="/2017/sponsors/"{% if page.url == '/2017/sponsors/' %} class="is-current"{% endif %}>
+        <a href="/sponsors/"{% if page.url == '/sponsors/' %} class="is-current"{% endif %}>
           Sponsors
         </a>
       </li>
