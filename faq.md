@@ -77,14 +77,16 @@ OzSecCon is committed to including all people from all backgrounds and walks of 
 
 If you wish to apply for this, we ask that you submit your information to the [following form](https://goo.gl/forms/CHiFFYLR4KrXoaxz1).
 
+{% endcomment %}
+
 ## Previous conferences
 
 The previous years conference websites can be found here:
 
-* [2017 Conference](/2017/)
-* [2018 Conference](/2018/)
+* [2017 Conference](https://2017.ozseccon.com/)
+* [2018 Conference](https://2018.ozseccon.com/)
 
-{% endcomment %}
+
 
 ## Does OzSecCon have a Code of Conduct?
 
