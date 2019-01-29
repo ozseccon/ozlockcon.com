@@ -9,7 +9,7 @@ title: "OzSecCon"
 
 The ticket sales for this year are now live and open to all: this includes ticket sales for training as well as the main conference event. [Please see here for the tickets.](https://ozseccon-2019.lilregie.com/booking/attendees/new)
 
-We are pleased to announce two professional training plans covering distinct disciplines:
+We are pleased to announce two [professional training plans](/training/) covering distinct disciplines:
 
 1) Wayne Ronaldson will be running his renowned red team training once again this year, but with a significantly more in depth syllabus. The training will span across 4 days, from 11th of June to 14th of June.
 
