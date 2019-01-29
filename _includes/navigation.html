@@ -4,6 +4,16 @@
       {% unless page.url == '/' %}
       <li class="cta" ><a href="/">Home</a></li>
       {% endunless %}
+      <li class="cta">
+        <a href="https://ozseccon-2019.lilregie.com/booking/attendees/new">
+            Tickets
+        </a>
+      </li>
+      <li>
+        <a href="/training/"{% if page.url == '/training/' %} class="is-current"{% endif %}>
+            Training
+        </a>
+      </li>
       <li>
         <a href="/sponsors/"{% if page.url == '/sponsors/' %} class="is-current"{% endif %}>
             Sponsorship

@@ -5,7 +5,25 @@ slug: home
 title: "OzSecCon"
 ---
 
-## Announcement
+## Announcement - January 29th
+
+The ticket sales for this year are now live and open to all: this includes ticket sales for training as well as the main conference event. [Please see here for the tickets.](https://ozseccon-2019.lilregie.com/booking/attendees/new)
+
+We are pleased to announce two professional training plans covering distinct disciplines:
+
+1) Wayne Ronaldson will be running his renowned red team training once again this year, but with a significantly more in depth syllabus. The training will span across 4 days, from 11th of June to 14th of June.
+
+2) Matt Smith (Huxleypig), well-known for his work defeating high security disc detainer locks, will be teaching a day-long course on a variety of uncommon high security attacks, and various vulnerabilities in high security disc detainer locking systems, such as Protec 1 and 2. This course will run on Friday the 14th June 2019.
+
+In addition, the Lockpicking and Key Impressioning workshops will be running on 14th Friday.
+These smaller workshops will be run by expert trainers and the small cost of attendance will be used to cover the cost of the consumables that are used each year. This separated cost is reflected in the reduced general conference ticket price.
+
+As per the previous announcement, [our call for papers and call for workshops is open](https://ozseccon.com/cfpw). Please note that this year we are also looking for talks covering reverse engineering topics around embedded devices (commonly found in hardware used for security systems) as well as talks covering topics such as social engineering.
+
+[Our sponsor drive is also open](https://ozseccon.com/sponsors) and we're hoping that you and your company can help us out by getting involved and making sure OzSecCon has another amazing year!
+
+
+## Announcement - January 4th
 
 We are pleased to announce we are back for a third year running!
 

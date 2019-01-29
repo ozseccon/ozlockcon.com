@@ -1,44 +1,106 @@
 wayne-ronaldson:
   name: Wayne Ronaldson
-  whois: Wayne is an experienced security tester at TSS specializing in Red Team Assessments, physical security and social engineering. Wayne presents to government and private sector organisations in relation to red teaming and cyber security, and is often requested to give in-depth technical briefings on the current security landscape.
-  title: Practical Red Teaming and Attack Simulation
-  abstract: >
-    Traditional security testing does not always accurately reflect the true tactics, trade-craft or simple
-    pure grit and determination of your adversary. Red Teaming is the process of viewing a problem
-    from an adversary or competitor’s perspective. Red Teaming simulates realistic attack scenarios,
-    using the same trade-craft and tools used by the adversary to mimic the threat to key business
-    assets.
-
-    This hands-on course will demonstrate how a genuine Red Team approach successfully combines
-    physical, digital and social attack vectors in order to accurately replicate the activities of the
-    adversary, to beat them at their own game. Using practical scenarios, participants will learn:
-
-      * The Red Team Mindset
-      * Target Analysis
-      * Adversary Analysis
-      * Reconnaissance
-      * Planning and Executing
-      * Red Team Small Team Tactics
-
-      Training is practical wherever possible and usually takes place on-site at the client company
-      premises, with some training conducted off-site‘ on the ground’. Training takes place over 2 very
-      full days.
-
-      The course culminates in a practical simulation exercise that integrates the analysis,
-      reconnaissance and planning phases of Red Teaming and applies them in action against the
-      Adversary Training fictitious company. This simulation exercise provides participants with the
-      opportunity to apply their knowledge and under standing in away that is practical and relevant,
-      while also demonstrating the challenge of being able to have the mindset like a Red Team member.
-
-      [Course outline can be found in this PDF.](/2018/documents/training/adversary-mindset.pdf)
-
-  hackergotchi: /2018/images/hackergotchis/mystery.png
-
-tom:
-  name: Tom
+  website: https://www.adversaryoverwatch.com/
   whois: >
-    Tom is an experienced security consultant, having performed the full spectrum of offensive cyber security services for private sector, federal and state government clients. Tom has performed and led multiple successful Red Team engagements including development of both custom and open source tooling, covert infrastructure and command & control channels and development of custom exploits and bypass techniques to achieve Red Team objectives.
+    Wayne is an experienced operator in the field of information security specialising in red teaming from a adversary simulation perspective, which includes digital, physical, social, and supply chain. Wayne has performed red team engagements against both government and private companies for over ten years.
 
 
-    If he's not breaking into your office he's probably climbing rocks, drinking coffee or attempting to covertly incorporate Deus Ex quotes into TSS' professional copy.
-  hackergotchi: /2018/images/hackergotchis/mystery.png
+    He has spoken at a number of security conferences including ACSC, Ruxcon, Auscert, DerbyCon, DEF CON, and RSA. He developed the Overwatch Offensive tool for digital espionage attack vectors and won the Australian security innovation award in 2013.
+  title: Comprehensive Adversary Simulation - Red Team Training
+  abstract: >
+    Traditional security testing does not always accurately reflect the true tactics, trade-craft or simple pure grit and determination of an adversary. Red Teaming is the process of viewing a problem from an adversary or competitor's perspective; and simulates realistic attack scenarios, using the same trade-craft and tools used by the adversary, to mimic the threat to key business assets.
+
+    This hands-on training will demonstrate how a genuine Red Team approach successfully combines physical, digital, social and supply chain attack vectors in order to accurately replicate the activities of the adversary, to beat them at their own game.
+
+    This training will provide participants with the skills sets to undertake threat analysis and develop red team assessments and strategies. The training comprises the following modules:
+
+      * Mindset Analysis
+
+      * Adversary Analysis
+
+      * Target Analysis
+
+      * Reconnaissance 1 -Social
+
+      * Reconnaissance 2 -Digital
+
+      * Reconnaissance 3 - Physical
+
+      * Attack Strategies
+
+      * Practical Exercise
+
+      Training is practical wherever possible and usually takes place on-site at the training premises, with some training conducted off-site 'on the ground'. The training culminates in a practical simulation exercise that integrates the analysis, reconnaissance and planning phases of Red Teaming and applies them in action against a fictitious company. This simulation exercise provides participants with the opportunity to apply their knowledge and understanding in a way that is practical and relevant, while also demonstrating the mindset like a Red Team assessor.
+
+      [A detailed course outline for each day of the training is available on his website.](https://www.adversaryoverwatch.com/schedule/)
+  hackergotchi: /images/hackergotchis/mystery.png
+
+matt-smith:
+  name: Matt Smith
+  twitter: Matt_Smith_Hux
+  whois: >
+    Finagler, general security subversionist and locksmith, Matt Smith is a lock and tool designer who specialises in disc detainer locks, but his background in physec goes back nearly 20 years.
+
+    Since satisfying a lifelong obsession with picking Abloy Classic, he has gone on to pick (and make tools for) all of the Abloy range, as well as many other tools for many other locks. He is currently working on a universal pin tumbler decoding system (amongst other things). Bsc (hons) Computer Science
+  title: Comprehensive Adversary Simulation - Red Team Training
+  abstract: >
+    The only disc detainer course you will ever need! Starting with the basics, it will cover everything from picking theory all the way up to esoteric techniques never before revealed.
+
+    It will cover general techniques (both destructive and NDE (with more emphasis on NDE)) as well as in-depth studies of many specific, high security disc detainer mechanisms, and how to defeat them.
+
+    There will be a practical hands-on picking session at the end of the course but participants will have access to all the tools and locks required throughout the whole course, to play with as wanted.
+
+    The course will cover the following topics in detail:
+
+      * DD history, makeup, design and strengths/weaknesses
+      * DD identification (Abus, Abloy, generic)
+      * Destructive entry techniques
+          * Drilling
+          * Forcing
+          * Heat
+          * Punching
+          * Pulling/levering
+          * Expansion
+
+      * Conventional DD picking theory
+          * DD picking defences and how to overcome
+              * False gates
+              * Restricted keyways (including Abloy Classic/Profile "Problem 50")
+              * One-way disc movement systems
+              * Random tension discs
+              * Free-spinning discs
+              * Disc blocking systems
+              * Other esoteric defences (Abus Plus/X-Plus)
+
+      * Non-conventional DD NDE techniques
+          * Decoding/make-up keys
+          * Impressioning
+          * Self-impressioning
+          * Vibration
+          * Sound
+          * Shimming
+          * Surreptitious techniques
+              * Visual decoding
+              * Dust/UV light
+              * Contact point reading
+          * High-tech techniques
+
+          * Lock-specific case studies
+              * Abloy Classic
+              * Abloy Profile(s)
+              * Abloy Protec I/II
+              * Abloy Disclock
+              * Abloy Disclock Pro
+              * Abloy Exec
+              * Abloy Sentry
+              * Abus granit
+              * Abus Plus
+              * Abus X-Plus
+              * Anchor Las
+              * Generic DD
+
+          * Practical picking session
+
+      All participants will have access to the required tooling (Silver Bullet) and locks throughout the whole course as well as access to Matt Smith's DD tools and prototypes (3-in-1's, 7-in-1, Abloy tools, decoders etc).
+
+  hackergotchi: /images/hackergotchis/mystery.png

@@ -38,7 +38,7 @@ We hope that one day the Australian physical security community can be regarded 
 (Hardware and Software integrators and developers).
 
 
-If your company is involved with integrating or developing security hardware or software, attending OzSecCon will showcase what types of common mistakes are made and how you and your company can avoid making the same mistakes. OzSecCon is also happy to have vendors demonstrate the latest technologies at the conference, [please get in touch with us via email.](mailto:{{ site.email }})
+If your company is involved with testing, integrating or developing security hardware or software, attending OzSecCon will demonstrate what types of common mistakes are made and how you and your company can avoid making the same mistakes or find similar issues. OzSecCon is also happy to have vendors demonstrate the latest technologies at the conference. If you would like to do that, [please get in touch with us via email.](mailto:{{ site.email }})
 
 ## Is this legal?
 
