@@ -5,35 +5,6 @@ slug: sponsors
 title: "Sponsorship"
 ---
 
-## Platinum Tier Sponsor
-
-Want to become our Platinum Tier Sponsor? [We have **one slot open**](#platinum-tier)
-
-***
-
-## Gold Tier Sponsor
-
-Want to become a Gold Tier Sponsor? [We have **two slots open**](#gold-tier)
-
-***
-
-## Silver Tier Sponsor
-
-Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier)
-
-***
-
-## Bronze Tier Sponsor
-
-Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze-tier)
-
-***
-## Badge & Lanyard Sponsor
-
-Want to become a Badge & Lanyard Sponsor? [We have **two slots open**](#badge-and-lanyard)
-
-***
-
 ## Interested in being a sponsor?
 
 OzSecCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
@@ -73,3 +44,32 @@ Please see our [sponsors pack](/OzSecCon2019SponsorPack.pdf) for anymore informa
 ***
 
 Thank you for considering to help us make OzSecCon a reality!
+
+***
+
+## Platinum Tier Sponsor
+
+Want to become our Platinum Tier Sponsor? [We have **one slot open**](#platinum-tier)
+
+***
+
+## Gold Tier Sponsor
+
+Want to become a Gold Tier Sponsor? [We have **two slots open**](#gold-tier)
+
+***
+
+## Silver Tier Sponsor
+
+Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier)
+
+***
+
+## Bronze Tier Sponsor
+
+Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze-tier)
+
+***
+## Badge & Lanyard Sponsor
+
+Want to become a Badge & Lanyard Sponsor? [We have **two slots open**](#badge-and-lanyard)
