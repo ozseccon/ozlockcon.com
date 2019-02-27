@@ -82,7 +82,7 @@ If you need to build the site manually (eg for a manual deploy, or for developme
 (I’m skipping the setup of Ruby here — have fun with that. FWIW, klepas uses [rbenv](https://github.com/rbenv/rbenv), and he hears that [rvm](https://rvm.io/) is similarly OK.)
 
 ```shell
-git clone git@github.com:klepas/ozlockcon.com.git
+git clone git@github.com:ozseccon/ozlockcon.com.git
 cd ozlockcon.com
 bundle install
 ```
