@@ -42,14 +42,14 @@ roger-g-johnston:
     "This fast-moving talk is a summary of lessons learned (both offensively and defensively) from 3 decades of conducting vulnerability assessments and defeating a wide variety of physical security devices, systems, and programs. Attacks and countermeasures for the following will be covered:  tampering-indicating seals, intrusion detection, cargo security, electronic voting machines, "indelible" voter's ink, general election security, electronic locks, biometrics, GPS, RFIDs, tags, product tampering/counterfeiting, and drug testing kits/protocols.  We will also examine some of the most common design flaws in physical security devices and systems.  The talk will conclude with be a brief discussion of general problems and recommendations concerning insider threat mitigation, psychology & security, layered security, nuclear safeguards, cryptography, and security management.
   hackergotchi: /images/hackergotchis/mystery.png
 
-  luca-bongiorni:
-    name: Luca Bongiorni
-    whois: >
+luca-bongiorni:
+  name: Luca Bongiorni
+  whois: >
       Luca is working as Principal Offensive Security Engineer within the AppSec Team of Bentley Systems. He is also actively involved in InfoSec where the main fields of research are: Radio Networks, Reverse Engineering, Hardware Hacking, Internet of Things and Physical Security. He also loves to share his knowledge and present some cool projects at security conferences around the globe: BlackHat Europe & USA Arsenal, TROOPERS, HackInParis, DEFCON USA, HackInBo, DEFCON Moscow, OWASP Chapters, SAS, etc. At the moment is focusing his researches on bypassing biometric access control systems, ICS Security and Air-Gapped Environments.
-    twitter: LucaBongiorni
-    title: >
+  twitter: LucaBongiorni
+  title: >
       ANP Catalog: The Adversarial Ninja Playset. How To Bring Your Red Teaming Arsenal To Next Level.
-    abstract: >
+  abstract: >
       During the last few years, Red Teaming engagements got more and more popular. This trend has pushed some hackers to R&D and release new opensource devices with the intent to make PhySec operations even more interesting. Smoothing the path to new TTPs and improving some old ones. During this talk will be presented five hacking devices developed from Offensive Ninjas, for Offensive Ninjas:
           * WHID Injector (a wifi-enabled Rubberducky on steroids and its mobile app, that allows to remotely inject keystrokes and bypass air-gapped environments).
           * P4wnP1 (a wifi-enabled BashBunny on steroids that allows a wide range of attacks, ranging from air-gap bypass to NET-NTLMv2 creds theft & crack a.k.a. Windows Lockpicker).
@@ -57,4 +57,4 @@ roger-g-johnston:
           * RFID-Tool (a wifi-enabled Wiegand bus implant that can sniff & replay data in order to steal & bypass RFID access control systems).
           * POTAEbox (a work-in-progress multi-purpose penetration dropbox that can be dropped over the "enemy lines" and  bypass .1x NAC, act rogue AP and stealthy pwn an entire corporate LAN).
         For each of these devices, we will go through their technical specifications and operational features. Passing, of course, through some real case scenarios where you can apply them during an Adversary Simulation. Nonetheless, will be presented also some tips for Blue-Teamers on how to detect and mitigate them.
-    hackergotchi: /images/hackergotchis/luca.png
+  hackergotchi: /images/hackergotchis/luca.jpg
