@@ -5,6 +5,17 @@ slug: home
 title: "OzSecCon"
 ---
 
+## Announcement - April 4th
+
+The call for papers and call for workshops has closed! Thank you to everyone who has submitted this year. We have now messaged all applications a response and our schedule is being worked on and will be released in the coming few days!
+
+You can now see the amazing line up we have this year on the [speakers](/speakers/) and [workshops](/workshops/) pages.
+
+We hope everyone is practicing hard for the competitions this year! We aim to post the rules up in the next few weeks.
+
+The ticket sales for this year are still up and selling fast, this includes ticket sales for training as well as the main conference event. [Please see here for the tickets.](https://ozseccon-2019.lilregie.com/booking/attendees/new)
+
+
 ## Announcement - January 29th
 
 The ticket sales for this year are now live and open to all: this includes ticket sales for training as well as the main conference event. [Please see here for the tickets.](https://ozseccon-2019.lilregie.com/booking/attendees/new)
