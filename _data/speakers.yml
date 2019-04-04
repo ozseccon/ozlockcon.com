@@ -58,3 +58,88 @@ luca-bongiorni:
           * POTAEbox (a work-in-progress multi-purpose penetration dropbox that can be dropped over the "enemy lines" and  bypass .1x NAC, act rogue AP and stealthy pwn an entire corporate LAN).
         For each of these devices, we will go through their technical specifications and operational features. Passing, of course, through some real case scenarios where you can apply them during an Adversary Simulation. Nonetheless, will be presented also some tips for Blue-Teamers on how to detect and mitigate them.
   hackergotchi: /images/hackergotchis/luca.jpg
+
+priyer:
+  name: Mitch "Priyer" Robert
+  whois: >
+      I'm a tow truck operator that got interested in picking when I got a set of picks from a convention. I got interested in the "unpickable" because for me they are more of a puzzle than other locks and require more research and thought to get into them.
+  website: https://www.youtube.com/channel/UCREY66_UJkGL75jxSgouy7g
+  title: >
+      Thinking outside the lock, how I defeated the Bowley, the Forever Lock, and the Yuema 750.
+  abstract: >
+      A detailed overview of the thought process, research, tool design and fabrication, and ultimately how the Bowley lock, the Forever Lock and the Yuema 750 were defeated.
+  hackergotchi: /images/hackergotchis/priyer.jpg
+
+jos-weyers:
+  name: Jos Weyers
+  whois: >
+      Jos is a world-record holder in the field of lock impressioning and a mainstay participant at LockSport events around the world. A long-time member of TOOOL in the Netherlands and a key figure at the Hack42 hackerspace in Arnhem, Jos is the Vice-President of TOOOL.nl and helps to oversee that organization and the LockCon conference. Some people know him as the Dutch Kilt guy. Featured in the New York Times. Voted #2 in the category "Hackers and Security" of the Nerd101-list of VrijNederland June 2015.
+  twitter: josweyers
+  title: >
+      Attacking masterkeyed systems (the easy way)
+  abstract: >
+      Ever taken several locks apart to figure out their masterkey ? Or had to cut a handful of keys to unearth that hidden treasure ? Guess what ? You're doing it wrong.
+  hackergotchi: /images/hackergotchis/jos-weyers.jpg
+
+peter-field:
+  name: Peter Field
+  whois: Director of Research at Medeco Security Locks.
+  title: Elements of Lock Cylinder Design Cylinders
+  abstract: >
+      Elements of Lock Cylinder Design is an overview of the parts or elements that make a lock cylinder, and the comparison of how variations in the individual elements can increase or decrease the security of the lock.
+
+
+      By analyzing the components in a cylinder, it is possible to develop a summary of the security rating of the lock. We will use illustrations and photographs of the cylinder to understand how various locks operate.
+
+      We will use illustrations and photographs to see what the lock and keys look like, how they operate and estimatewhat security they provide.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+james:
+  name: James
+  whois: >
+    James worked in physical security for over ten years before discovering information security as the perfect place to combine his passion for security with his love of tech. During that time, he worked in almost every type of physical security role, performed security analysis and risk assessments to inform national counter-terrorism policy, and led a highly-trained corporate security team as a local security manager with one of world's largest investment banks. Now a cyber security consultant and occasional red teamer, he enjoys helping clients solve complex problems, translating between technical and non-technical people, and using outdated memes.
+  title: Understanding, testing and improving physical security teams
+  abstract: >
+    It's 2:00 AM. While on site for a red team engagement, you walk around a corner to find yourself face-to-face with a security officer. What should you do? What will they do? What do you actually know about this person? Based on over a decade working on the operational side of physical security, this talk looks at the people behind the uniform: who they are, how they operate, and what they do (and don't do). With a focus on red teaming and security consulting, we'll go through the key things to know about physical security teams, as well as some practical considerations for red team testing. Finally, we'll look at good security practices to help build security officer effectiveness.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+alex-dib:
+  name: Alex Dib
+  whois: Working as a Security Consultant for 2 years, currently at NCC Group. Specialisation in Physical Security & Access Control.
+  website: https://scund00r.com
+  title: Attacking the HID Access Control System
+  abstract: >
+     This talk will cover 3 attack vectors on the HID access control system; Long Range RFID cloning, networked door controller exploitation and a replay attack.
+      You will learn how the HID access control system works at a high level and how the RFID card traverses using the Wiegand protocol.
+      Capturing, Cloning and Using the Long Range readers will be explained and demonstrated including a build guide.
+      When Long range cloning fails and you have network access, this talk will cover how to exploit the networked door controller to open doors and add your own RFID credential to the database.
+      When all else fails, using the ESP-RFID-TOOL device to replay credentials will be explained and demonstrated.
+  hackergotchi: /images/hackergotchis/mystery.png
+
+mewsec:
+  name: MewSec (Sara)
+  whois: μsec - Sydney based security consultant. I mainly focus on Red Teaming, Social Engineering and Physical Security Assessments. I like coffee, Hardware Hacking and memes.
+  twitter: mewsec
+  title: The art of human shell for introverts
+  abstract: >
+     An introverted ex psych student turned security consultant will go through privilege escalation and the art of human shell from Social Engineer's perspective. They will go through Psych 101 concepts, easy mode and boss mode security engagements and empathy as an attack vector.
+  hackergotchi: /images/hackergotchis/mewsec.jpg
+
+nullwolf:
+  name: Nullwolf
+  whois: >
+    nullwolf is a Principal Technical Specialist, and the Redteam Subject Matter Expert, at Hivint (a Trustwave Company). When he's not out redteaming he can be found reverse engineering Software Defined Radio / RF devices and Hardware Hacking.
+  twitter: tresacton
+  title: Side Channel Attacks (for encrypted RF transmissions and other things)
+  abstract: >
+     This talk will focus on performing power analysis to derive encryption keys, and how it can be applied to miscellaneous other devices, including IoT and RF devices, where encryption is getting in your way.
+  hackergotchi: /images/hackergotchis/nullwolf.jpg
+
+rfc:
+  name: rfc6919
+  whois:
+  twitter: rfc6919
+  title: RF based analysis of an ISM-band alarm system
+  abstract: >
+     Low-speed ISM-band radio communications are cheap and simple to design into a product, and are conveniently amenable to interception and analysis. This presentation will walk through the analysis of an alarm system that uses this communication layer for control and sensor signalling, focussing on tools & techniques as well as some access control bypasses discovered along the way.
+  hackergotchi: /images/hackergotchis/rfc.jpg

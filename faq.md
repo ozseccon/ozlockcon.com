@@ -13,6 +13,7 @@ title: "FAQ"
 1. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
 1. [Do you archive your previous websites?](#previous-conferences)
 1. [Does OzSecCon have a Code of Conduct?](#does-ozseccon-have-a-code-of-conduct)
+1. [Does OzSecCon have an access for all program?](#access-for-all)
 {: .toc }
 
 ## Who are you?
@@ -70,15 +71,13 @@ Additionally, we're going to borrow a quote as an answer:
 
 <small>[Courtesy of [<abbr title="The Open Organisation Of Lockpickers">TOOOL</abbr>](http://toool.us/).]</small>
 
-{% comment %}
 
 ## Access for all
 
-OzSecCon is committed to including all people from all backgrounds and walks of life. If for some reason, you find yourself in need of financial assistance, OzSecCon may be able to provide you with a discounted or free ticket for the event depending on your situation.  
+OzSecCon is committed to including all people from all backgrounds and walks of life. If for some reason, you find yourself unable to afford a ticket to the conference, OzSecCon may be able to provide you with a discounted or free ticket for the event depending on your situation.
 
-If you wish to apply for this, we ask that you submit your information to the [following form](https://goo.gl/forms/CHiFFYLR4KrXoaxz1).
+If you wish to apply for this, we ask that you submit your information to the [following form](https://docs.google.com/forms/d/1_WsFBBkaEjStw6MLGc4UrPQJRC_2pgu9DFIOPJfeBsU).
 
-{% endcomment %}
 
 ## Previous conferences
 
