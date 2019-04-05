@@ -47,25 +47,25 @@ Thank you for considering to help us make OzSecCon a reality!
 
 ***
 
-## Platinum Tier Sponsor
+## Platinum tier sponsor
 
-Want to become our Platinum Tier Sponsor? [We have **one slot open**](#platinum-tier)
-
-***
-
-## Gold Tier Sponsor
-
-Want to become a Gold Tier Sponsor? [We have **two slots open**](#gold-tier)
+Want to become our Platinum tier sponsor? [We have **one slot open**](#platinum-tier)
 
 ***
 
-## Silver Tier Sponsor
+## Gold tier sponsor
 
-Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier)
+Want to become a Gold tier sponsor? [We have **two slots open**](#gold-tier)
 
 ***
 
-## Bronze Tier Sponsors
+## Silver tier sponsor
+
+Want to become a Silver tier sponsor? [We have **five slots open**](#silver-tier)
+
+***
+
+## Bronze tier sponsors
 
 ### Insomnia
 
@@ -75,11 +75,25 @@ Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier
 >
 > Find out more at [**insomniasec.com**](https://www.insomniasec.com).
 
+### TSS
+
+<a class="logo" href="https://www.tsscyber.com.au/"><img src="/images/sponsors/tss-logo.png" alt="TSS logo" width="265" /></a>
+
+> ISS is a specialist information security company founded by former Australian Government intelligence and cyber security specialists. We work with public and private sector organisations to mitigate risk and enhance cyber resilience.
+>
+> Find out more at [**tsscyber.com.au**](https://www.tsscyber.com.au/).
+
+
 ***
 
-Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze-tier)
+Want to become a Bronze tier sponsor? [We have **unlimited slots open**](#bronze-tier)
 
 ***
-## Badge & Lanyard Sponsor
 
-Want to become a Badge & Lanyard Sponsor? [We have **two slots open**](#badge-and-lanyard)
+## Badge & lanyard sponsor
+
+### Privasec
+
+<a class="logo" href="http://privasec.com.au/"><img src="/images/sponsors/privasec-logo.png" alt="Privasec logo" width="269" height="67" /></a>
+
+
