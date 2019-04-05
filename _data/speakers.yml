@@ -152,3 +152,11 @@ michael-maynard:
   abstract: >
     Dial combination safe locks are the pinnacle of mechanical locking systems, and they certainly have a mystique all their own. The safe locks we use today are beautiful pieces of engineering and represent the latest product of an endless arms race between lock makers and safecrackers. But here's the thing: like all locks, with a little knowledge and a bit of skill they can be beaten.  This talk will show you how the Group 2 three wheel safelock works. You'll learn its weaknesses. And I'll give you the basic tools you'll need in order to be one of the few people on the planet that can beat them.
   hackergotchi: /images/hackergotchis/michael-maynard.jpg
+
+jaakko-fagerlund:
+  name: Jaakko Fagerlund
+  whois: Tool & die maker, safe cracker
+  twitter: JaakkoFagerlund
+  title: The Unpickable Kromer Protector
+  abstract: An in-depth view into a very old mechanical key lock and what makes it very difficult to pick and decode. This talk will show the mechanics of how the key and lock operates, what kind of anti-pick functions and anti-decoding functions it has, where it is or was used and is it possible to make a tool for it or why is there no tools for it.
+  hackergotchi: /images/hackergotchis/mystery.png
