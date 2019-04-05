@@ -5,40 +5,46 @@ slug: home
 title: "OzSecCon"
 ---
 
-## Announcement - April 4th
+## Announcement --- April 4th
 
-The call for papers and call for workshops has closed! Thank you to everyone who has submitted this year. We have now messaged all applications a response and our schedule is being worked on and will be released in the coming few days!
+The call for papers and workshops have closed!
 
-You can now see the amazing line up we have this year on the [speakers](/speakers/) and [workshops](/workshops/) pages.
+Thank you to everyone who has submitted this year. We have messaged all applications a response.
 
-We hope everyone is practicing hard for the competitions this year! We aim to post the rules up in the next few weeks.
+We’re finalising our schedule, which we will be releasing in the coming few days.
 
-The ticket sales for this year are still up and selling fast, this includes ticket sales for training as well as the main conference event. [Please see here for the tickets.](https://ozseccon-2019.lilregie.com/booking/attendees/new)
+In the meantime please check out the amazing line up we have this year on the **[speakers](/speakers/)** and **[workshops](/workshops/)** pages.
+
+We hope everyone is practicing hard for the competitions this year! Competition rules will be documented on the site later.
+
+The ticket sales for this year are still up and selling _fast_.
+
+Please get in quick to ensure you **[don't miss out on a ticket](https://ozseccon-2019.lilregie.com/booking/attendees/new)**. Sign up for training and workshops can also be purchased there.
 
 
-## Announcement - January 29th
+## Announcement --- January 29th
 
-The ticket sales for this year are now live and open to all: this includes ticket sales for training as well as the main conference event. [Please see here for the tickets.](https://ozseccon-2019.lilregie.com/booking/attendees/new)
+The **[ticket sales for this year are now live and open to all](https://ozseccon-2019.lilregie.com/booking/attendees/new)**: this includes ticket sales for training as well as the main conference event.
 
 We are pleased to announce two [professional training plans](/training/) covering distinct disciplines:
 
-1) Wayne Ronaldson will be running his renowned red team training once again this year, but with a significantly more in depth syllabus. The training will span across 4 days, from 11th of June to 14th of June.
+1. Wayne Ronaldson will be running his renowned red team training once again this year, but with a significantly more in-depth syllabus. The training will span across 4 days, from 11th – 14th of June.
+2. Matt Smith (_Huxleypig_), well known for his work defeating high security disc detainer locks, will be teaching a day-long course on a variety of uncommon high security attacks, and various vulnerabilities in high security disc detainer locking systems, such as the Abloy Protec 1 and 2. This course will run on Friday the 14th June 2019.
 
-2) Matt Smith (Huxleypig), well-known for his work defeating high security disc detainer locks, will be teaching a day-long course on a variety of uncommon high security attacks, and various vulnerabilities in high security disc detainer locking systems, such as Protec 1 and 2. This course will run on Friday the 14th June 2019.
+In addition, the _Lockpicking_ and _Key Impressioning_ workshops will be running on 14th Friday.
 
-In addition, the Lockpicking and Key Impressioning workshops will be running on 14th Friday.
 These smaller workshops will be run by expert trainers and the small cost of attendance will be used to cover the cost of the consumables that are used each year. This separated cost is reflected in the reduced general conference ticket price.
 
-As per the previous announcement, [our call for papers and call for workshops is open](https://ozseccon.com/cfpw). Please note that this year we are also looking for talks covering reverse engineering topics around embedded devices (commonly found in hardware used for security systems) as well as talks covering topics such as social engineering.
+As per the previous announcement, our call for papers and call for workshops is <del>open</del> <ins>closed</ins>. Please note that this year we are also looking for talks covering reverse engineering topics around embedded devices (commonly found in hardware used for security systems) as well as talks covering topics such as social engineering.
 
-[Our sponsor drive is also open](https://ozseccon.com/sponsors) and we're hoping that you and your company can help us out by getting involved and making sure OzSecCon has another amazing year!
+**[Our sponsor drive is also open](https://ozseccon.com/sponsors)** and we're hoping that you and your company can help us out by getting involved and making sure OzSecCon has another amazing year!
 
 
-## Announcement - January 4th
+## Announcement --- January 4th
 
 We are pleased to announce we are back for a third year running!
 
-The call for papers and workshops is up. The call for papers and the call for workshops can be [found at this link](/cfpw/).
+The call for papers and workshops is <del>up</del> <ins>closed</ins>.
 
 
 Read on for more information!
@@ -47,7 +53,7 @@ We are super excited to be back at the same venue as last year, the Heidelberg c
 
 We have also decided to extend the con by one whole day, kind-of.
 
-The conference will be running on the 14th, 15th and 16th of June 2019 in Melbourne, Australia. For the first time, this means that we will be running the conference over three days.
+The conference will be running on the 14th, 15th and 16th of June 2019 in Melbourne, Australia. For the first time, this means that we will be running the conference over **three days**!
 
 The additional day will be to allow for physical security training courses to take place focusing on beginner and intermediate skill levels.
 
