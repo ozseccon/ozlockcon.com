@@ -1,3 +1,32 @@
+
+attacus:
+  name: Lilly ‘Attacus’ Ryan
+  twitter: attacus_au
+  whois: Attacus was born 1757 during a full moon. During a long and eventful career, she accidentally became Pope, invented the tricycle, and wrote copy for fortune cookies. She is currently an internet gremlin at Assurance and in her spare time enjoys licking poisonous wallpaper and patting dogs.
+  title: Invisibility Workshop
+  abstract: >
+    This all-day, drop-in facial recognition workshop will let you get creative with visual disguise as you try to trick cameras into thinking you're invisible and stop them from recognising you. Use face paint, reflective tape, masks, wigs, fake beards, and your best ideas to craft an effective disguise in both bright and dark conditions. You'll learn the basics of how facial detection and recognition systems work, and then it's up to you to do your best against the workshop recognition systems and the ones you carry in your own pockets.
+  hackergotchi: /images/hackergotchis/attacus.jpg
+
+michael-maynard:
+  name: Michael Maynard
+  website: https://www.youtube.com/user/mhmaynard
+  whois: Michael Maynard is a full time optometrist and part time lock nerd. He lives in Napier, on the east coast of New Zealand's North Island. He is interested mostly in mechanical locking systems, and in particular likes reverse engineering commercial products to see what the designers were thinking, and what compromises were made in the design of the lock. He picked his first lock in the 1970's and hasn't really stopped since.
+  title: A beginners guide to manipulation
+  abstract: >
+    Group two mechanical safe locks have been the industry standard for sixty years. They're beautiful pieces of engineering but they _can_ be beaten, and with a bit of hard work and practice, you can learn how. This workshop will teach you the absolute basics. After that... it's just you, your practice lock, and hours spent alone in the spare room with your significant other wondering where the hell you've gone...
+  hackergotchi: /images/hackergotchis/michael-maynard.jpg
+
+oisin-donohoe:
+  name: Oisin ‘Nomad’ Donohoe
+  twitter: oisin91
+  whois: Locksmith/semi-professional Macgyver-neer/YouTube and Reddit connoisseur
+  title: Masterkeying CTF
+  abstract: >
+    Using a bag of tricks and a bit of grey matter participants will be challenged to decode keys from photos that will work a series of locks (photos will be of keys held by various staff). Stage 1 will consist of decoding 8 different keys that work two different 'areas' (A and B respectively). Stage 2 will then require participants to use the key codes to find the common patterns.
+  hackergotchi: /images/hackergotchis/oisin.jpg
+
+
 jos-and-holly:
   name: Jos and Holly
   twitter: josweyers
