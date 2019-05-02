@@ -9,11 +9,12 @@ title: "FAQ"
 1. [Who should attend?](#who-should-attend)
 1. [Is this legal?](#is-this-legal)
 1. [Is possession of lockpicking tools legal?](#is-possession-of-lockpicking-tools-legal)
-1. [How do I travel by air with locksport equipment?](#how-do-i-travel-by-air-with-locksport-equipment)
+1. [How do I fly with locksport equipment?](#how-do-i-fly-with-locksport-equipment)
 1. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
 1. [Do you archive your previous websites?](#previous-conferences)
-1. [Does OzSecCon have a Code of Conduct?](#does-ozseccon-have-a-code-of-conduct)
-1. [Does OzSecCon have an access for all program?](#access-for-all)
+1. [Is there any financial access assistance?](#access-for-all)
+1. [Can I help as a volunteer?](#volunteering)
+1. [Is there a **Code of Conduct**?](#does-ozseccon-have-a-code-of-conduct)
 {: .toc }
 
 ## Who are you?
@@ -23,7 +24,7 @@ OzSecCon is a security conference unlike any other. We demonstrate and showcase 
 OzSecCon was born from a loose-knit group of physical security enthusiasts. We come from a diverse range of backgrounds; some of us work in security (eg. as locksmiths or in IT security), and many of us are locksport hobbyists — but what binds us all is our common interest and passion for all things security.
 In early 2016 we started a chat channel as a place for us to share knowledge about physical security. For the most part we grew from 'hacker-conferences' and as such we have embraced the hacker spirit of sharing information: teaching each other and learning together.
 
-We hope that one day the Australian physical security community can be regarded as highly as the overseas communities are.
+We hope that one day the Australasian physical security community can be regarded as highly as the overseas communities are.
 
 OzSecCon is organised by the following people:
 
@@ -59,13 +60,13 @@ See [*Review of Maximum Penalties for Preparatory Offences Report*](https://www.
 
 The summary of this is --- according to our interpretation --- that possession of lock picking equipment is legal as long as a reasonable explanation can be demonstrated. We are however, not lawyers. If this is of particular concern to you, it would be our recommendation that you consult a lawyer for legal advice.
 
-## How do I travel by air with locksport equipment?
+## How do I fly with locksport equipment?
 
 Many of us do this regularly as part of our work and hobby.
 
 We recommend you place all tools *and locks* into your checked-in luggage. Why locks too? Most airport screeners will consider a 45mm padlock a potential weapon.
 
-Hard moulded plastic cases are ideal and can often also be locked. Regular bags and suitcases are fine too provided that sensitive tools (eg. picks) are secure from being squashed to avoid gross frustration upon unpacking.
+Hard moulded plastic cases are ideal and can often also be locked. Regular bags and suitcases are fine too provided that sensitive tools (eg. picks) are secure from being squashed to avoid gross frustration upon arrival.
 
 ## Aren't you teaching wannabe criminals?
 
@@ -82,25 +83,25 @@ Additionally, we're going to borrow a quote as an answer:
 
 ## Access for all
 
-OzSecCon is committed to including all people from all backgrounds and walks of life. If for some reason, you find yourself unable to afford a ticket to the conference, OzSecCon may be able to provide you with a discounted or free ticket for the event depending on your situation.
+OzSecCon is committed to including all people from all backgrounds and walks of life. If for some reason you find yourself unable to afford a ticket to the conference OzSecCon may be able to provide you with a discounted or free ticket for the event depending on your situation.
 
-If you wish to apply for this, we ask that you submit your information to the [following form](https://docs.google.com/forms/d/1_WsFBBkaEjStw6MLGc4UrPQJRC_2pgu9DFIOPJfeBsU).
+If you wish to apply for assistance, we ask that you **[submit an application to our access for all & volunteering program](https://docs.google.com/forms/d/1_WsFBBkaEjStw6MLGc4UrPQJRC_2pgu9DFIOPJfeBsU)**.
 
 
-## Previous conferences
+## Volunteering
 
-The previous years conference websites can be found here:
+Just as with sponsors, OzSecCon wouldn't happen without the volunteering help we kindly receive every year.
 
-* [2017 Conference](https://2017.ozseccon.com/)
-* [2018 Conference](https://2018.ozseccon.com/)
+We have half-day and full-event volunteering roles available. Please **[submit an application to our access for all & volunteering program](https://docs.google.com/forms/d/1_WsFBBkaEjStw6MLGc4UrPQJRC_2pgu9DFIOPJfeBsU)** as a volunteer.
 
+Volunteers receive reduced or free entry for their help.
 
 
 ## Does OzSecCon have a Code of Conduct?
 
-Yes, we do.
+**Yes**, we do.
 
-The purpose of [our Code of Conduct](/conduct/) is to be as inclusive to the largest number of people interested in locksport and physical security generally.
+The purpose of **[our Code of Conduct](/conduct/)** is to be as inclusive to the largest number of people interested in locksport and physical security generally.
 
 **All** attendees --- including speakers, sponsors, and staff too --- are expected
 to conduct themselves in line with our CoC.

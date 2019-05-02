@@ -17,7 +17,7 @@ logan-woods:
   hackergotchi: /images/hackergotchis/mystery.png
 
 huxleypig:
-  name: Matt "Huxleypig" Smith
+  name: Matt ‘Huxleypig’ Smith
   whois: >
     Matt Smith's history in security goes back longer than he cares to remember. Starting with socially engineering access to sporting events and music festivals (The Ashes, World Cup, Glastonbury) he then got into physec from circumventing the locks on (and subsequently emptying) vending machines. After realising that there might be a legitimate future in it, he went on to work as a locksmith for several years before settling into his current role as a locktool and lock designer. Specialising in disc detainer locks, he cut his teeth by breaking Abloy Classic (after 107 years!), going onto design and make tools for the whole of the Abloy family, as well as the Silver Bullet (universal disc detainer tool). He also has designed many other tools for magnetic locks, lever locks, dimple locks, slider locks and is currently working on a universal pin tumbler decoding system.
     Also, Bsc (hons) Computer Science.
@@ -40,7 +40,7 @@ roger-g-johnston:
   title: Three Decades of Defeating Physical Security
   abstract: >
     "This fast-moving talk is a summary of lessons learned (both offensively and defensively) from 3 decades of conducting vulnerability assessments and defeating a wide variety of physical security devices, systems, and programs. Attacks and countermeasures for the following will be covered:  tampering-indicating seals, intrusion detection, cargo security, electronic voting machines, "indelible" voter's ink, general election security, electronic locks, biometrics, GPS, RFIDs, tags, product tampering/counterfeiting, and drug testing kits/protocols.  We will also examine some of the most common design flaws in physical security devices and systems.  The talk will conclude with be a brief discussion of general problems and recommendations concerning insider threat mitigation, psychology & security, layered security, nuclear safeguards, cryptography, and security management.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /images/hackergotchis/roger-johnston.jpg
 
 luca-bongiorni:
   name: Luca Bongiorni
@@ -60,7 +60,7 @@ luca-bongiorni:
   hackergotchi: /images/hackergotchis/luca.jpg
 
 priyer:
-  name: Mitch "Priyer" Robert
+  name: Mitch ‘Priyer’ Robert
   whois: >
       I'm a tow truck operator that got interested in picking when I got a set of picks from a convention. I got interested in the "unpickable" because for me they are more of a puzzle than other locks and require more research and thought to get into them.
   website: https://www.youtube.com/channel/UCREY66_UJkGL75jxSgouy7g
@@ -114,7 +114,7 @@ alex-dib:
       Capturing, Cloning and Using the Long Range readers will be explained and demonstrated including a build guide.
       When Long range cloning fails and you have network access, this talk will cover how to exploit the networked door controller to open doors and add your own RFID credential to the database.
       When all else fails, using the ESP-RFID-TOOL device to replay credentials will be explained and demonstrated.
-  hackergotchi: /images/hackergotchis/mystery.png
+  hackergotchi: /images/hackergotchis/alex-dib.png
 
 mewsec:
   name: MewSec
@@ -137,9 +137,26 @@ nullwolf:
 
 rfc:
   name: rfc6919
-  whois:
+  whois: Defensive sysad by trade, I make things for pay and break things for fun.
   twitter: rfc6919
   title: RF based analysis of an ISM-band alarm system
   abstract: >
      Low-speed ISM-band radio communications are cheap and simple to design into a product, and are conveniently amenable to interception and analysis. This presentation will walk through the analysis of an alarm system that uses this communication layer for control and sensor signalling, focussing on tools & techniques as well as some access control bypasses discovered along the way.
   hackergotchi: /images/hackergotchis/rfc.jpg
+
+michael-maynard:
+  name: Michael Maynard
+  website: https://www.youtube.com/user/mhmaynard
+  whois: Michael Maynard is a full time optometrist and part time lock nerd. He lives in Napier, on the east coast of New Zealand's North Island. He is interested mostly in mechanical locking systems, and in particular likes reverse engineering commercial products to see what the designers were thinking, and what compromises were made in the design of the lock. He picked his first lock in the 1970's and hasn't really stopped since.
+  title: A beginners guide to manipulation
+  abstract: >
+    Dial combination safe locks are the pinnacle of mechanical locking systems, and they certainly have a mystique all their own. The safe locks we use today are beautiful pieces of engineering and represent the latest product of an endless arms race between lock makers and safecrackers. But here's the thing: like all locks, with a little knowledge and a bit of skill they can be beaten.  This talk will show you how the Group 2 three wheel safelock works. You'll learn its weaknesses. And I'll give you the basic tools you'll need in order to be one of the few people on the planet that can beat them.
+  hackergotchi: /images/hackergotchis/michael-maynard.jpg
+
+jaakko-fagerlund:
+  name: Jaakko Fagerlund
+  whois: Tool & die maker, safe cracker
+  twitter: JaakkoFagerlund
+  title: The Unpickable Kromer Protector
+  abstract: An in-depth view into a very old mechanical key lock and what makes it very difficult to pick and decode. This talk will show the mechanics of how the key and lock operates, what kind of anti-pick functions and anti-decoding functions it has, where it is or was used and is it possible to make a tool for it or why is there no tools for it.
+  hackergotchi: /images/hackergotchis/mystery.png
