@@ -25,6 +25,14 @@ In early 2016 we started a chat channel as a place for us to share knowledge abo
 
 We hope that one day the Australian physical security community can be regarded as highly as the overseas communities are.
 
+OzSecCon is organised by the following people:
+
+* Topy - [@InfoSecFriends](https://twitter.com/InfoSecFriends)
+* Bash - [@chkconfig](https://twitter.com/chkconfig)
+* Barnie - [@barnie995](https://twitter.com/barnie995)
+* bl3ep - [@bl3ep](https://twitter.com/bl3ep)
+* Aaron - [@hotpheex](https://twitter.com/hotpheex)
+
 ## Who should attend?
 
 * Physical Security Professionals

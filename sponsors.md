@@ -75,6 +75,29 @@ Want to become a Silver Tier Sponsor? [We have **five slots open**](#silver-tier
 >
 > Find out more at [**insomniasec.com**](https://www.insomniasec.com).
 
+
+### Aura
+
+<a class="logo" href="https://www.aurainfosec.com/"><img src="/images/sponsors/aura.jpg" alt="Aura Information Security Logo" width="265" /></a>
+
+> Aura Information Security is a leading provider of information security consulting services to corporates and government in Australia and New Zealand.
+>Headquartered in Wellington, and with staff in Auckland, Sydney and Melbourne, the Aura team comprises more than 25 industry experts – all of whom have been hand-picked for their individual talent and expertise.
+>
+> Our primary focus is to provide our customers with the very best independent security advice and support, so that their digital world is more secure, reliable and resilient.
+>
+>Aura was awarded 'Best Security Company' at the Information Security (iSANZ) awards two consecutive years in a row, 2017 and 2018.
+>
+>Find out more at [**www.aurainfosec.com**](https://www.aurainfosec.com).
+
+
+### TML
+
+<a class="logo" href="https://www.themissinglink.com.au/"><img src="/images/sponsors/tml.png" alt="The Missing Link Logo" width="265" /></a>
+
+> The Missing Link Security's team of award-winning cyber security consultants strive to improve your cyber defence by conducting Red Team Attack Simulations. We work with world-class vendors to offer full-scope specialised cyber security services.
+>
+>Find out more at [**www.themissinglink.com.au**](https://www.themissinglink.com.au/).
+
 ***
 
 Want to become a Bronze Tier Sponsor? [We have **unlimited slots open**](#bronze-tier)
