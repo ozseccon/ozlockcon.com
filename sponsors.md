@@ -47,21 +47,15 @@ Thank you for considering to help us make OzSecCon a reality!
 
 ***
 
-## Platinum tier sponsor
-
-Want to become our Platinum tier sponsor? [We have **one slot open**](#platinum-tier)
-
-***
-
 ## Gold tier sponsor
 
-Want to become a Gold tier sponsor? [We have **two slots open**](#gold-tier)
+Want to become a Gold tier sponsor? [We have **one slot open**](#gold-tier)
 
 ***
 
 ## Silver tier sponsor
 
-Want to become a Silver tier sponsor? [We have **five slots open**](#silver-tier)
+Want to become a Silver tier sponsor? [We have **one slot open**](#silver-tier)
 
 ***
 
@@ -102,9 +96,19 @@ Want to become a Silver tier sponsor? [We have **five slots open**](#silver-tier
 
 <a class="logo" href="https://www.tsscyber.com.au/"><img src="/images/sponsors/tss-logo.png" alt="TSS logo" width="265" /></a>
 
-> ISS is a specialist information security company founded by former Australian Government intelligence and cyber security specialists. We work with public and private sector organisations to mitigate risk and enhance cyber resilience.
+> TSS is a specialist information security company founded by former Australian Government intelligence and cyber security specialists. We work with public and private sector organisations to mitigate risk and enhance cyber resilience.
 >
 > Find out more at [**tsscyber.com.au**](https://www.tsscyber.com.au/).
+
+
+### Assurance
+
+<a class="logo" href="http://www.assurance.com.au/"><img src="/images/sponsors/assurance-logo.png" alt="Assurance logo" width="265" /></a>
+
+> Assurance is a specialist information security consultancy founded in 2005 in Melbourne, Australia. Our tight-knit team of experienced professionals delivers tailored penetration testing, vulnerability assessments, on-premise and cloud infrastructure security reviews, and more.
+> Assurance serves a wide cross section of customers, from tiny startups to global enterprises, with distinguishing experience in providing specialist security and mobility services for critical infrastructure, financial services, and government.
+>
+> Find out more at [www.assurance.com.au/](http://www.assurance.com.au/).
 
 
 ***
@@ -118,5 +122,3 @@ Want to become a Bronze tier sponsor? [We have **unlimited slots open**](#bronze
 ### Privasec
 
 <a class="logo" href="http://privasec.com.au/"><img src="/images/sponsors/privasec-logo.png" alt="Privasec logo" width="269" height="67" /></a>
-
-
