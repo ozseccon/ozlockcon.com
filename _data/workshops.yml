@@ -37,7 +37,9 @@ jos-and-holly:
     This course will be an introduction to lock impressioning traditional pin tumbler locks for people who are new or who want to practice and improve their skills with Jos and Holly.
 
     Participants will be able to practice using provided tools and locks however they are also welcome to bring their own tools if they prefer them.
+
   hackergotchi: /images/hackergotchis/jos-weyers.jpg
+  prereg: true
 
 ozseccon:
   name: OzSecCon
@@ -46,4 +48,23 @@ ozseccon:
     This course will be an introduction to lock picking for people who are new or who want to practice and improve their skills with our instructors present.
 
     Participants will be able to practice using provided tools and locks however they are also welcome to bring their own tools if they have.
+
+  hackergotchi: /images/hackergotchis/mystery.png
+  prereg: true
+
+aleksandr-kolchanov:
+  name: Aleksandr Kolchanov
+  twitter: pyrk2142
+  title: Attacks on mobile network connected alarms, smart homes and smartwatches
+  whois: >
+    Aleksandr Kolchanov is an independent security researcher and consultant. Ex penetration tester of a bank in Russia. He takes part in different bug bounty programs (PayPal, Facebook, Yahoo, Coinbase, Protonmail, Telegram, Privatbank). Aleksandr is interested in uncommon security issues, telecom problems, airline security and social engineering. Speaker at PHDays 2018, c0c0n 2018, DeepSec 2018 and BSides Odessa.
+  abstract: >
+    This training will cover different attack on popular mobile network enabled devices: alarms, smart home systems, access control systems and smartwatchs for kids. Phone network devices are popular and easy for use: for example, you just need to insert SIM-card in mobile network-alarm, and system is ready for use. But the security of that devices is questionable.
+    Common alarm-devices tested properly, revealed a wide variety of vulnerabilities and attacks. At this workshop, participants will be taught attacks against the mobile network part of vulnearble devices, as this part is not covered properly and there are some easy and effective attacks.
+
+    Please bring:
+    * A laptop with a modern browser
+    * Headphones
+    * Favorite editor with script language (optional)
+
   hackergotchi: /images/hackergotchis/mystery.png

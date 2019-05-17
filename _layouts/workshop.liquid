@@ -15,8 +15,6 @@ layout: default
 
 <h2 class="display-2--lighter">Workshop details</h2>
 
-These workshops must be pre-registered as they are running on Friday only, visit <a href="https://ozseccon-2019.lilregie.com/booking/attendees/new">lilreggie</a> to pre-register.
-
 <ol class="speaker-details">
 {% for speaker_hash in speakers %}
 {% assign speaker = speaker_hash[1] %}
@@ -58,6 +56,13 @@ These workshops must be pre-registered as they are running on Friday only, visit
         {{ speaker.whois | markdownify | remove: '<p>' | remove: '</p>' }}
       </span>
     </div>
+    {% endif %}
+
+    {% if speaker.prereg %}
+    Pre-registration is required. This can be found at our <a href="{{ site.tickets }}"> ticket website </a>. <br />
+
+    {% else %}
+    Pre-registration is not required however limited spaces are available for these workshops so please be on time, first come first served. Additional classes may be run if there is overwhelming interest.
     {% endif %}
 
     <a class="skip-link" href="#content">&uarr; Return to top of content</a>

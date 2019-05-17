@@ -32,6 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OzSecCon
 stasibook_url: https://www.facebook.com/groups/ozseccon/about/
 github_username: ozseccon
+tickets: https://ozseccon-2019.lilregie.com/booking/attendees/new
 
 # Build settings
 markdown: kramdown
