@@ -68,35 +68,46 @@ Collections from Mick and Topy will be on display both days. Come by and ask que
 
 ***
 
-### Lockpicking
+### [Lockpicking](/workshops/#ozseccon)
 
 General locks available for picking. Staff will be present to organise the lock picking competition and locks will be available to practice on however no official training will be scheduled.
+
+Official training is held on the Friday before. This is ran by experienced instructors. These tickets can be purchased on our [ticket site](https://ozseccon-2019.lilregie.com/booking/attendees/new).
 
 Hosts
 : OzSecCon
 
 Days
-: Both Saturday and Sunday
+: Friday, Saturday and Sunday
 
 Times
-: 10:00 to 18:00 both days
+: 9:00 to 12:00 Friday
+: 10:00 to 18:00 Saturday and Sunday
 
 Competition
 : Open and run both days.
 
 ***
 
-### Impressioning
+### [Impressioning](/workshops/#jos-and-holly)
 
 Practice your filing skills and make a working key to a lock from a blank. Staff will be present to supervise the area and if there is sufficent interest, a impressioning competition may be arranged.No official training will be scheduled.
 
 Ilco Kwikset KW1 Kik, 3-, 4-, and 5-pin Lockwood `234b45`/`SLW29` available for practice.
 
+Official training is held on the Friday before. This is ran by experienced instructors. These tickets can be purchased on our [ticket site](https://ozseccon-2019.lilregie.com/booking/attendees/new).
+
 Hosts
+: Jos and Holly
 : OzSecCon
 
+Days
+: Friday - Jos and Holly
+: Saturday and Sunday - OzSecCon
+
 Times
-: 10:00 to 18:00 both days
+: 14:00 to 15:30 Friday
+: 10:00 to 18:00 Saturday and Sunday
 
 ***
 
@@ -171,7 +182,7 @@ Host
 : Oisin 'Nomad' Donohoe
 
 Times
-: Sunday 10:00 to 14:00
+: Sunday 11:30 to 15:30
 
 ***
 

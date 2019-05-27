@@ -5,51 +5,18 @@ slug: sponsors
 title: "Sponsorship"
 ---
 
-## Interested in being a sponsor?
-
-OzSecCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
-
-The conference aims to bring this community together to share knowledge and build awareness around physical security, and to both enable and inspire future research.
-
-We expect to accommodate at least 200 security professionals and hobbyists to this event. Our expectation is that this event will be run ‘at cost’ with all funds going towards providing the best experience we can possibly offer for everyone involved.
-
-We aim to run a combination of talks, several workshops, and a number of competitions. This should allow attendees to both learn by listening and through hands-on opportunities.
-
-With this in mind, the funds allocated from sponsorship will hopefully cover the costs of the workshop materials as well as the costs of guest speakers from around the world.
-
-While this is the second time OzSecCon has been organised, the team running the conference has for several years been heavily involved with running similar sized information security conferences across Australia and New Zealand. These include:
-
-- [AppSec Day](https://www.eventbrite.com.au/e/owasp-melbourne-appsec-day-tickets-27378844862#)
-- [AusCERT](https://conference.auscert.org.au/)
-- [BSides Canberra](http://bsidesau.com.au/)
-- [CrikeyCon](https://www.crikeycon.com/)
-- [Kiwicon](https://kiwicon.org/)
-- [Platypus Con](https://letsjusthackshit.org/platypuscon2016.html)
-- [Ruxcon](https://ruxcon.org.au/)
-- Unrestcon
-- [WAHCKon](https://wahckon.org.au/)
-
-***
-
-If you are interested in setting up a stall to sell tools/locks or provide demonstrations as a corporate entity, please [get in touch via email](mailto:{{ site.email }}).
-
-We are also open to donations of tools and other lock or security hardware and would love to speak to you if you can help with that.
-
-If you have an idea or want to sponsor something specific not listed above such as a party on Saturday/Sunday night, please get in touch.
-
-Note: as a sponsor we do ask your organisation’s representatives to follow our [**Code of Conduct**](/conduct/).
-
-Please see our [sponsors pack](/OzSecCon2019SponsorPack.pdf) for anymore information.
-
-***
-
-Thank you for considering to help us make OzSecCon a reality!
-
-***
-
 ## Gold tier sponsor
 
-Want to become a Gold tier sponsor? [We have **one slot open**](#gold-tier)
+### Loop Secure
+
+<a class="logo" href="http://www.loopsec.com.au"><img src="/images/sponsors/loop-secure-logo.png" alt="Loop Secure logo" width="265" /></a>
+
+
+> Continual Defence, Infinite Potential.
+>
+> Loop Secure Pty Ltd is an Australian based IT security company specialising in managed services, governance, risk & compliance and offensive security services.
+>
+> Find out more at [**loopsec.com.au**](https://www.loopsec.com.au).
 
 ***
 
@@ -122,3 +89,65 @@ Want to become a Bronze tier sponsor? [We have **unlimited slots open**](#bronze
 ### Privasec
 
 <a class="logo" href="http://privasec.com.au/"><img src="/images/sponsors/privasec-logo.png" alt="Privasec logo" width="269" height="67" /></a>
+
+***
+
+## Prize sponsor
+
+### SouthOrd
+
+<a class="logo" href="http://www.southord.com/"><img src="/images/sponsors/southord-logo.png" alt="SouthOrd logo" width="200" height="36" /></a>
+
+> Founded in the principles of quality, innovation and reliability,  SouthOrd® is the industry leader in precision stainless steel lock picks and professional locksmith tools.
+>
+> Find out more at [**southord.com**](http://www.southord.com).
+
+### Sparrows Lock Picks
+
+<a class="logo" href="http://www.sparrowslockpicks.com/"><img src="/images/sponsors/sparrows-logo.jpg" alt="Sparrows Lock Picks logo" width="200" height="138" /></a>
+
+> Sparrows Lock Picks is a manufacturer of specialty and quality lock pick tools. We work with industry professionals to design the very best lock picks for Locksmiths, Military and the Sporting community.
+>
+> Find out more at [**sparrowslockpicks.com**](http://www.sparrowslockpicks.com/).
+
+***
+
+## Interested in being a sponsor?
+
+OzSecCon will be the first locksport and physical security conference in Australia. We have created an online community for physical security enthusiasts including locksmiths, information security professionals, and hobbyists.
+
+The conference aims to bring this community together to share knowledge and build awareness around physical security, and to both enable and inspire future research.
+
+We expect to accommodate at least 200 security professionals and hobbyists to this event. Our expectation is that this event will be run ‘at cost’ with all funds going towards providing the best experience we can possibly offer for everyone involved.
+
+We aim to run a combination of talks, several workshops, and a number of competitions. This should allow attendees to both learn by listening and through hands-on opportunities.
+
+With this in mind, the funds allocated from sponsorship will hopefully cover the costs of the workshop materials as well as the costs of guest speakers from around the world.
+
+While this is the second time OzSecCon has been organised, the team running the conference has for several years been heavily involved with running similar sized information security conferences across Australia and New Zealand. These include:
+
+- [AppSec Day](https://www.eventbrite.com.au/e/owasp-melbourne-appsec-day-tickets-27378844862#)
+- [AusCERT](https://conference.auscert.org.au/)
+- [BSides Canberra](http://bsidesau.com.au/)
+- [CrikeyCon](https://www.crikeycon.com/)
+- [Kiwicon](https://kiwicon.org/)
+- [Platypus Con](https://letsjusthackshit.org/platypuscon2016.html)
+- [Ruxcon](https://ruxcon.org.au/)
+- Unrestcon
+- [WAHCKon](https://wahckon.org.au/)
+
+***
+
+If you are interested in setting up a stall to sell tools/locks or provide demonstrations as a corporate entity, please [get in touch via email](mailto:{{ site.email }}).
+
+We are also open to donations of tools and other lock or security hardware and would love to speak to you if you can help with that.
+
+If you have an idea or want to sponsor something specific not listed above such as a party on Saturday/Sunday night, please get in touch.
+
+Note: as a sponsor we do ask your organisation’s representatives to follow our [**Code of Conduct**](/conduct/).
+
+Please see our [sponsors pack](/OzSecCon2019SponsorPack.pdf) for anymore information.
+
+***
+
+Thank you for considering to help us make OzSecCon a reality!

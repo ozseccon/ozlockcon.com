@@ -160,3 +160,10 @@ jaakko-fagerlund:
   title: The Unpickable Kromer Protector
   abstract: An in-depth view into a very old mechanical key lock and what makes it very difficult to pick and decode. This talk will show the mechanics of how the key and lock operates, what kind of anti-pick functions and anti-decoding functions it has, where it is or was used and is it possible to make a tool for it or why is there no tools for it.
   hackergotchi: /images/hackergotchis/mystery.png
+
+aleksandr-kolchanov:
+  name: Aleksandr Kolchanov
+  twitter: pyrk2142
+  whois: >
+    Aleksandr Kolchanov is an independent security researcher and consultant. Ex penetration tester of a bank in Russia. He takes part in different bug bounty programs (PayPal, Facebook, Yahoo, Coinbase, Protonmail, Telegram, Privatbank). Aleksandr is interested in uncommon security issues, telecom problems, airline security and social engineering. Speaker at PHDays 2018, c0c0n 2018, DeepSec 2018 and BSides Odessa.
+  hackergotchi: /images/hackergotchis/mystery.png
