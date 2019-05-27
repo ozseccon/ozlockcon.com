@@ -28,11 +28,26 @@ We hope that one day the Australasian physical security community can be regarde
 
 OzSecCon is organised by the following people:
 
-* Topy - [@InfoSecFriends](https://twitter.com/InfoSecFriends)
-* Bash - [@chkconfig](https://twitter.com/chkconfig)
-* Barnie - [@barnie995](https://twitter.com/barnie995)
-* bl3ep - [@bl3ep](https://twitter.com/bl3ep)
 * Aaron - [@hotpheex](https://twitter.com/hotpheex)
+* Barnie - [@barnie995](https://twitter.com/barnie995)
+* Bash - [@chkconfig](https://twitter.com/chkconfig)
+* bl3ep - [@bl3ep](https://twitter.com/bl3ep)
+* Bull
+* errbufferoverfl
+* filsy
+* Jumper
+* keyholesurgeon
+* klepas
+* Lana
+* laune
+* mickthepick
+* Momo - [@momowowo](https://twitter.com/momowowo)
+* Nomad
+* oliver
+* Ozmart
+* Poshea
+* Rainmannslab
+* Topy - [@InfoSecFriends](https://twitter.com/InfoSecFriends)
 
 ## Who should attend?
 
