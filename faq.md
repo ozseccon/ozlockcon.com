@@ -38,7 +38,7 @@ OzSecCon is organised by the following people:
 * Jumper
 * keyholesurgeon
 * klepas
-* Lana
+* Lana - [@alannahguo](https://twitter.com/alannahguo)
 * laune
 * mickthepick
 * Momo - [@momowowo](https://twitter.com/momowowo)

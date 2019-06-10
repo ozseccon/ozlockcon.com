@@ -67,8 +67,31 @@ aleksandr-kolchanov:
     Common alarm-devices tested properly, revealed a wide variety of vulnerabilities and attacks. At this workshop, participants will be taught attacks against the mobile network part of vulnearble devices, as this part is not covered properly and there are some easy and effective attacks.
 
     Please bring:
+
     * A laptop with a modern browser
+
     * Headphones
+
     * Favorite editor with script language (optional)
+    
+
+
+    This workshop will contain several parts:
+
+      You will learn the basics of attacks on GSM-alarms, controllers and smart homes in the theory part. The questions of attacks methods, different authorization methods, typical problems, some advanced tricks, and ideas will be discussed.
+
+      In the demonstration part, the speaker will present our "guest" - different devices, we will discuss vulnerabilities and problems with real-life examples. Also, several attacks will be shown on video.
+
+      Several virtual devices (emulators of vulnerable IVR menu with DTMF-commands, based on the issues in real devices) will be presented in the practical part. Attendees are invited to use SIP-accounts to make a call to the emulator, then try to bypass different authorization methods.
+
+      You also can take part in a small competition: several virtual devices with different vulnerabilities will be presented. They will be similar with devices from the practical part, but the hacking will be a bit harder. The first successful hackers will get small prizes.
+
+      If you are going to attend in a practical part or in a competition, I strongly recommend to prepare a SIP-account for calls. I use Zadarma.com (you can sign up for free, get a login and passport for SIP-account), but you can use anything you like. Also, you need a SIP application to make calls. You can use Zadarma mobile application or any other application, include some SIP applications for WEB.
+
+      I highly recommend to check, that you can make a call with sip to any external SIP-domain. I created a small domain for checks: test@workshop-test.sip.twilio.com If you get an answer, you are ready for the workshop.
+
+      Important note: you can not make a call from the Zadarma site to external SIP domains (like sip@domain.com), because only calls to digital phone numbers can be made from the site. You need to use any application (mobile, web or desktop). Please check, that you can make calls to external sip-domains from your application. Some applications allow to make calls only to digit number, in this case, try to use other application.
+
+      Preparing a SIP-account and an application for calls in recommended, but it is not obligatory, I will try to help during the workshop in case any technical troubles. It will be helpful to save time.
 
   hackergotchi: /images/hackergotchis/mystery.png

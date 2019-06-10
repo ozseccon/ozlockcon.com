@@ -22,7 +22,14 @@ title: "Sponsorship"
 
 ## Silver tier sponsor
 
-Want to become a Silver tier sponsor? [We have **one slot open**](#silver-tier)
+
+### TML
+
+<a class="logo" href="https://www.themissinglink.com.au/"><img src="/images/sponsors/tml.png" alt="The Missing Link Logo" width="265" /></a>
+
+> The Missing Link Security's team of award-winning cyber security consultants strive to improve your cyber defence by conducting Red Team Attack Simulations. We work with world-class vendors to offer full-scope specialised cyber security services.
+>
+>Find out more at [**www.themissinglink.com.au**](https://www.themissinglink.com.au/).
 
 ***
 
@@ -48,16 +55,6 @@ Want to become a Silver tier sponsor? [We have **one slot open**](#silver-tier)
 >Aura was awarded 'Best Security Company' at the Information Security (iSANZ) awards two consecutive years in a row, 2017 and 2018.
 >
 >Find out more at [**www.aurainfosec.com**](https://www.aurainfosec.com).
-
-
-### TML
-
-<a class="logo" href="https://www.themissinglink.com.au/"><img src="/images/sponsors/tml.png" alt="The Missing Link Logo" width="265" /></a>
-
-> The Missing Link Security's team of award-winning cyber security consultants strive to improve your cyber defence by conducting Red Team Attack Simulations. We work with world-class vendors to offer full-scope specialised cyber security services.
->
->Find out more at [**www.themissinglink.com.au**](https://www.themissinglink.com.au/).
-
 
 ### TSS
 

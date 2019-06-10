@@ -51,7 +51,7 @@ Collections from Mick and Topy will be on display both days. Come by and ask que
 | 15:15–16:15  | ['**Understanding, testing and improving physical security teams**', by James](/speakers/#james) 																																																						|
 | 16:15–17:15  | ['**The Forensics of Lockpicking**', by Datagram](/speakers/#datagram) 																																								|
 | 17:15–18:15  | <span class="smallcaps">Awards <span class="amp">&amp;</span> closing ceremony</span>																																														|
-| 18:30–Late  | <span class="smallcaps">After-party</span> <small> --- Venue: _3 Ravens Brewery_</small>																																					|
+
 
 
 ## Workshops
