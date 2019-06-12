@@ -30,10 +30,10 @@ OzSecCon is organised by the following people:
 
 * Aaron - [@hotpheex](https://twitter.com/hotpheex)
 * Barnie - [@barnie995](https://twitter.com/barnie995)
-* Bash - [@chkconfig](https://twitter.com/chkconfig)
+* Bash - [@pwntio](https://twitter.com/pwntio)
 * bl3ep - [@bl3ep](https://twitter.com/bl3ep)
 * Bull
-* errbufferoverfl
+* errbufferoverfl - [@errbufferoverfl](https://twitter.com/errbufferoverfl)
 * filsy
 * Jumper
 * keyholesurgeon
