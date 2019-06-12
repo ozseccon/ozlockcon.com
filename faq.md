@@ -11,7 +11,6 @@ title: "FAQ"
 1. [Is possession of lockpicking tools legal?](#is-possession-of-lockpicking-tools-legal)
 1. [How do I fly with locksport equipment?](#how-do-i-fly-with-locksport-equipment)
 1. [Aren't you teaching wannabe criminals?](#arent-you-teaching-wannabe-criminals)
-1. [Do you archive your previous websites?](#previous-conferences)
 1. [Is there any financial access assistance?](#access-for-all)
 1. [Can I help as a volunteer?](#volunteering)
 1. [Is there a **Code of Conduct**?](#does-ozseccon-have-a-code-of-conduct)
@@ -37,7 +36,7 @@ OzSecCon is organised by the following people:
 * filsy
 * Jumper
 * keyholesurgeon
-* klepas
+* [@klepas](https://twitter.com/klepas)
 * Lana - [@alannahguo](https://twitter.com/alannahguo)
 * laune
 * mickthepick
