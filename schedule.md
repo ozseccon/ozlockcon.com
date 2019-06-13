@@ -25,7 +25,7 @@ Collections from Mick and Topy will be on display both days. Come by and ask que
 | -----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00–9:15    | <span class="smallcaps">Opening ceremony</span>																																																																	|
 | 9:15–10:15   | ['Keynote: **Three Decades of Defeating Physical Security**', by Roger G. Johnston, Ph.D. CPP](/speakers/#roger-g-johnston-ph-d-cpp)																																																										|
-| 10:15–11:15  | ['**Attacking the HID Access Control System**', by Alex Dib](/speakers/#alex-dib)																|
+| 10:15–11:15  | 	['**Attacking masterkeyed systems (the easy way)**', by Jos Weyers](/speakers/#jos-weyers)											|
 | 11:15–12:15  | ['**Elements of Lock Cylinder Design Cylinders**', by Peter Field](/speakers/#peter-field)																																								|
 | 12:15–13:15  | <span class="smallcaps">Lunch</span>																							|
 | 13:15–14:15  | ['**A beginners guide to manipulation**', by Michael Maynard](/speakers/#michael-maynard)																																													|
@@ -43,7 +43,7 @@ Collections from Mick and Topy will be on display both days. Come by and ask que
 | -----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00–9:15    | <span class="smallcaps">Day two welcome</span>																																																																		|
 | 9:15–10:15   | ['**ANP Catalog: The Adversarial Ninja Playset. How To Bring Your Red Teaming Arsenal To Next Level.**', by Luca Bongiorni](/speakers/#luca-bongiorni)														|
-| 10:15–11:15  | ['**Attacking masterkeyed systems (the easy way)**', by Jos Weyers](/speakers/#jos-weyers)	|
+| 10:15–11:15  | ['**Attacking the HID Access Control System**', by Alex Dib](/speakers/#alex-dib)	|
 | 11:15–12:15  | ['**Thinking outside the lock, how I defeated the Bowley, the Forever Lock, and the Yuema 750.**', by Mitch 'Priyer' Robert](/speakers/#mitch-priyer-robert)																																																												|
 | 12:15–13:15  | <span class="smallcaps">Lunch</span>																																																																							|
 | 13:15–14:15  | ['**The Unpickable Kromer Protector**', by Jaakko Fagerlund](/speakers/#jaakko-fagerlund)																																									|
