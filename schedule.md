@@ -106,7 +106,7 @@ Days
 : Saturday and Sunday - OzSecCon
 
 Times
-: 14:00 to 15:30 Friday
+: 13:00 to 15:30 Friday
 : 10:00 to 18:00 Saturday and Sunday
 
 ***
