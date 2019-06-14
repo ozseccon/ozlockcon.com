@@ -134,7 +134,7 @@ Host
 : Lilly 'Attacus' Ryan
 
 Times
-: Saturday 10:00 to 18:00
+: Saturday 10:30 to 18:00
 
 ***
 
